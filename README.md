@@ -86,9 +86,6 @@ Anyone reading the code will instantly see the difference between a CRUD demo an
 ```
 
 ---
-
-👉 Next level upgrade: I can **add system diagrams in Markdown (architecture + booking flow sequence)**.  
-That instantly makes the README feel like it came from a **FAANG design doc**.  
-
-Do you want me to generate those diagrams (using Mermaid syntax so they render directly on GitHub)?
-```
+👤 Author
+Ramesh Nair
+---
