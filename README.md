@@ -83,9 +83,7 @@ It’s a **blueprint of how enterprise systems are designed**: layered, extensib
 
 Anyone reading the code will instantly see the difference between a CRUD demo and a system built with an **engineer’s mindset**.
 
-```
-
 ---
 👤 Author
 Ramesh Nair
----
+```
