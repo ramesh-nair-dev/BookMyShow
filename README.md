@@ -84,6 +84,14 @@ It’s a **blueprint of how enterprise systems are designed**: layered, extensib
 Anyone reading the code will instantly see the difference between a CRUD demo and a system built with an **engineer’s mindset**.
 
 ---
-👤 Author
-Ramesh Nair
+## 👤 Author
+
+**Ramesh Nair**
+
+* Backend Engineer | Java | Spring Boot | System Design Enthusiast
+* Focused on building **scalable, maintainable, real-world systems**.
+* Passionate about **clean architecture, design patterns, and domain modeling**.
+
+📫 Reach me at: ramesh200212@gmail.com
+🌐 GitHub: https://github.com/ramesh-nair-dev
 
